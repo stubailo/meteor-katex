@@ -1,0 +1,12 @@
+body, html {
+  font-family: sans-serif;
+}
+
+.tex-input {
+  font-size: 1.2em;
+  width: 80%;
+}
+
+.tex-output {
+  font-size: 1.2em;
+}
