@@ -1,7 +1,8 @@
 Package.describe({
   name: "sashko:katex",
   summary: "KaTeX for Meteor.",
-  version: "1.0.0"
+  version: "1.0.0",
+  git: "https://github.com/stubailo/katex"
 });
 
 Package.onUse(function(api) {
@@ -17,4 +18,6 @@ Package.onUse(function(api) {
     }), "client", {asset: true});
 
   api.use("templating", "client", {weak: true});
+
+  api.export("katex");
 });
