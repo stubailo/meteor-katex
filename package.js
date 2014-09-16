@@ -1,12 +1,12 @@
 Package.describe({
   name: "sashko:katex",
   summary: "KaTeX for Meteor.",
-  version: "1.0.1",
+  version: "1.0.2",
   git: "https://github.com/stubailo/katex"
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('METEOR@0.9.2.1');
+  api.versionsFrom('METEOR@0.9.1.1');
   api.addFiles('katex-helper.js', "client");
   api.addFiles('katex.min.css');
   api.addFiles('fonts-override.css');
