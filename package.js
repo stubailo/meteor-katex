@@ -18,6 +18,4 @@ Package.onUse(function(api) {
     }), "client", {asset: true});
 
   api.use("templating", "client", {weak: true});
-
-  api.export("katex");
 });
