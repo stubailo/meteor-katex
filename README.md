@@ -3,6 +3,8 @@ KaTeX for Meteor
 
 A Meteor wrapper for [KaTeX](http://khan.github.io/KaTeX/), "The fastest math typesetting library for the web."
 
+`meteor add sashko:katex`
+
 ## Usage
 
 There are two ways to use this package. One is by calling `katex` directly:
