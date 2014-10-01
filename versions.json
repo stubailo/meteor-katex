@@ -5,11 +5,15 @@
       "1.1.0"
     ],
     [
+      "simple:katex",
+      "1.0.3"
+    ],
+    [
       "underscore",
       "1.0.0"
     ]
   ],
   "pluginDependencies": [],
-  "toolVersion": "meteor-tool@1.0.30",
+  "toolVersion": "meteor-tool@1.0.33",
   "format": "1.0"
 }

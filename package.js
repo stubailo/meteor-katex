@@ -7,5 +7,5 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.1.1');
-  api.imply("simple:katex");
+  api.imply("simple:katex@1.0.3");
 });
