@@ -2,7 +2,7 @@ Package.describe({
   name: "sashko:katex",
   summary: "Moved to simple:katex",
   version: "1.0.3",
-  git: "https://github.com/stubailo/katex"
+  git: "https://github.com/stubailo/meteor-katex"
 });
 
 Package.onUse(function(api) {
