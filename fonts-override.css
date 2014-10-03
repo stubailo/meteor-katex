@@ -100,140 +100,140 @@
 
 @font-face {
     font-family: 'KaTeX_Main';
-    src: url('/packages/sashko_katex/fonts/KaTeX_Main-Italic.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_Main-Italic.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_Main-Italic.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_Main-Italic.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_Main-Italic.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_Main-Italic.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_Main-Italic.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_Main-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'KaTeX_Main';
-    src: url('/packages/sashko_katex/fonts/KaTeX_Main-Regular.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_Main-Regular.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_Main-Regular.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_Main-Regular.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_Main-Regular.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_Main-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_Main-Regular.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_Main-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'KaTeX_Math';
-    src: url('/packages/sashko_katex/fonts/KaTeX_Math-BoldItalic.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_Math-BoldItalic.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_Math-BoldItalic.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_Math-BoldItalic.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_Math-BoldItalic.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_Math-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_Math-BoldItalic.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_Math-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'KaTeX_Math';
-    src: url('/packages/sashko_katex/fonts/KaTeX_Math-Italic.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_Math-Italic.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_Math-Italic.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_Math-Italic.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_Math-Italic.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_Math-Italic.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_Math-Italic.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_Math-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'KaTeX_Math';
-    src: url('/packages/sashko_katex/fonts/KaTeX_Math-Regular.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_Math-Regular.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_Math-Regular.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_Math-Regular.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_Math-Regular.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_Math-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_Math-Regular.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_Math-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'KaTeX_SansSerif';
-    src: url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Bold.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Bold.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Bold.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Bold.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_SansSerif-Bold.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_SansSerif-Bold.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_SansSerif-Bold.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_SansSerif-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'KaTeX_SansSerif';
-    src: url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Italic.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Italic.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Italic.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Italic.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_SansSerif-Italic.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_SansSerif-Italic.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_SansSerif-Italic.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_SansSerif-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'KaTeX_SansSerif';
-    src: url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Regular.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Regular.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Regular.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_SansSerif-Regular.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_SansSerif-Regular.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_SansSerif-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_SansSerif-Regular.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_SansSerif-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'KaTeX_Script';
-    src: url('/packages/sashko_katex/fonts/KaTeX_Script-Regular.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_Script-Regular.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_Script-Regular.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_Script-Regular.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_Script-Regular.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_Script-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_Script-Regular.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_Script-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'KaTeX_Size1';
-    src: url('/packages/sashko_katex/fonts/KaTeX_Size1-Regular.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_Size1-Regular.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_Size1-Regular.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_Size1-Regular.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_Size1-Regular.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_Size1-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_Size1-Regular.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_Size1-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'KaTeX_Size2';
-    src: url('/packages/sashko_katex/fonts/KaTeX_Size2-Regular.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_Size2-Regular.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_Size2-Regular.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_Size2-Regular.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_Size2-Regular.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_Size2-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_Size2-Regular.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_Size2-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'KaTeX_Size3';
-    src: url('/packages/sashko_katex/fonts/KaTeX_Size3-Regular.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_Size3-Regular.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_Size3-Regular.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_Size3-Regular.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_Size3-Regular.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_Size3-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_Size3-Regular.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_Size3-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'KaTeX_Size4';
-    src: url('/packages/sashko_katex/fonts/KaTeX_Size4-Regular.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_Size4-Regular.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_Size4-Regular.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_Size4-Regular.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_Size4-Regular.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_Size4-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_Size4-Regular.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_Size4-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'KaTeX_Typewriter';
-    src: url('/packages/sashko_katex/fonts/KaTeX_Typewriter-Regular.eot');
-    src: url('/packages/sashko_katex/fonts/KaTeX_Typewriter-Regular.eot?#iefix') format('embedded-opentype'),
-         url('/packages/sashko_katex/fonts/KaTeX_Typewriter-Regular.woff') format('woff'),
-         url('/packages/sashko_katex/fonts/KaTeX_Typewriter-Regular.ttf') format('truetype');
+    src: url('/packages/simple_katex/fonts/KaTeX_Typewriter-Regular.eot');
+    src: url('/packages/simple_katex/fonts/KaTeX_Typewriter-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/packages/simple_katex/fonts/KaTeX_Typewriter-Regular.woff') format('woff'),
+         url('/packages/simple_katex/fonts/KaTeX_Typewriter-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
