@@ -1,5 +1,5 @@
 if (Meteor.isClient) {
-  Session.setDefault("text", "\\sqrt{x + 3}");
+  Session.setDefault("text", "x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}");
 
   Template.body.events({
     "keyup input": function (event) {
