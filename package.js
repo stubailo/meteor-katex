@@ -1,7 +1,7 @@
 Package.describe({
   name: "simple:katex",
-  summary: "KaTeX 0.4.2 for Meteor",
-  version: "1.1.0",
+  summary: "KaTeX 0.5.1 for Meteor",
+  version: "1.1.1",
   git: "https://github.com/stubailo/meteor-katex"
 });
 
